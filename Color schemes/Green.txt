@@ -1,0 +1,10 @@
+#f9fbe7 lime lighten-5
+#f0f4c3 lime lighten-4
+#e6ee9c lime lighten-3
+#dce775 lime lighten-2
+#d4e157 lime lighten-1
+#cddc39 lime
+#c0ca33 lime darken-1
+#afb42b lime darken-2
+#9e9d24 lime darken-3
+#827717 lime darken-4
